@@ -1,5 +1,18 @@
-# 1232
+# Employee health plan
 
+whether walking, cycling, or running, employees can get points for every kilometer they exercise. Every employee must report the mileage of monthly exercise to the. At the end of each month, all e-mails will be collected, and a small cash reward will be given to employees according to their total points.
+
+The functionality of your web application
+
+Ask employees to use simple HTML forms to enter their sports mileage on the web page.
+
+Store the mileage of employees in the database.
+
+Calculate health points according to mileage data.
+
+Let employees track monthly progress.
+
+Let managers see the total points by clicking at the end of each month.
 whether walking, cycling, or running, employees can get points for every kilometer they exercise.
 Every employee must report the mileage of monthly exercise to the. At the end of each month, all e-mails will be collected,
 and a small cash reward will be given to employees according to their total points.
