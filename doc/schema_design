@@ -1,2 +1,6 @@
-SELECT lastname, firstname, fitpoints 
+SELECT EmpID, Position, FirstName, LastName, PhoneNumber, Email 
 FROM employees
+SELECT StartDate, Picture, Goal 
+FROM Point
+SELECT TotalPoint
+FROM Reward
