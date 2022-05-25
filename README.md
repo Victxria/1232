@@ -13,7 +13,7 @@ Let employees track monthly progress.
 Let managers see the total points by clicking at the end of each month.
 
 
-# team members
+# eam members
 
 408840030 呂維霖,  408840147 彭建鑫,  408840089 林乘宇,  409840278 謝朱庭緯,  409840153 邱薰誼
 
