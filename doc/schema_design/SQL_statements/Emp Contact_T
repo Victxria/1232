@@ -1,4 +1,0 @@
-CREATE TABLE "Emp Contact" (
-  "Email"	TEXT,
-	"PhoneNumber"	TEXT,
-);
