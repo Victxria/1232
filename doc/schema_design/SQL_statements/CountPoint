@@ -1,0 +1,5 @@
+SELECT a1.Name, a1.Sales, SUM(a2.Sales) CountPoint
+FROM  Emp info a1, TotalKm a2
+WHERE a1.TotalKm <= a2.TotalKm OR (a1.TotalKm=a2.TotalKm AND a1.Emp info = a2.Emp info)
+GROUP BY a1.Emp info, a1.TotalKm
+ORDER BY a1.TotalKm DESC, a1.Emp info DESC;
