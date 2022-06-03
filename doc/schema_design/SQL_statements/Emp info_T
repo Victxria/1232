@@ -1,4 +1,6 @@
 CREATE TABLE "Emp info" (
+        "ID"	TEXT,
+	"Position" TEXT,
 	"Fname"	TEXT,
 	"Lname"	TEXT,
 	"Email"	TEXT,
