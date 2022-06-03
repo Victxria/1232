@@ -1,5 +1,4 @@
 CREATE TABLE "Emp Name" (
 	"Fname"	TEXT,
-	"Mname"	TEXT,
-	"Lname"	TEXT
+	"Lname"	TEXT,
 );
