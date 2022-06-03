@@ -1,5 +1,5 @@
-SELECT a1.Name, a1.Sales, SUM(a2.Sales) CountPoint
-FROM  Emp info a1, TotalKm a2
-WHERE a1.TotalKm <= a2.TotalKm OR (a1.TotalKm=a2.TotalKm AND a1.Emp info = a2.Emp info)
-GROUP BY a1.Emp info, a1.TotalKm
-ORDER BY a1.TotalKm DESC, a1.Emp info DESC;
+SELECT a1.Exercise, a1.Km, SUM(a2.Sales) CountPoint
+FROM  Exercise a1, Km a2
+WHERE a1.Km <= a2.Km OR (a1.Km=a2.Km AND a1.Exercise= a2.Exercise)
+GROUP BY a1.Exercise, a1.Km
+ORDER BY a1.Km DESC, a1.Exercise DESC;
