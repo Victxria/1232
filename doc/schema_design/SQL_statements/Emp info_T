@@ -1,0 +1,6 @@
+CREATE TABLE "Emp info" (
+	"Fname"	TEXT,
+	"Lname"	TEXT,
+	"Email"	TEXT,
+	"PhoneNumber"	TEXT,
+);

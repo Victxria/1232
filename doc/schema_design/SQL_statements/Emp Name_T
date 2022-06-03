@@ -1,4 +1,0 @@
-CREATE TABLE "Emp Name" (
-	"Fname"	TEXT,
-	"Lname"	TEXT,
-);
