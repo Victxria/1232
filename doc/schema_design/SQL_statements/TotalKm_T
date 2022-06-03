@@ -1,3 +1,4 @@
 CREATE TABLE "TotalKm" (
-"target_field"	INTEGER
+	"Exercise"	TEXT,
+	"Km"	INTEGER
 );
