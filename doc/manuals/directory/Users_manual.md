@@ -1,2 +1,2 @@
-- The document for the users. How to use it? 
+- The document for the users. How to use it?  The user will fill their basic information to set up their data,and they input thier exercise milage in it, then the system will find out thier exercise bonus.
 - How to operate each functionality?
