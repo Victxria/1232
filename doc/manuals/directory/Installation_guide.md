@@ -9,7 +9,7 @@ requirements of user:
 ---------------------------------------------------------------------------------------------------------------------
 
 
-step 1:please type your basic information such as id , position,F name,L name,number,email.
+step 1:please type your basic information such as Name,number,email.
 ---------------------------------------------------------------------------------------------------------------------
 
 
