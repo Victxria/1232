@@ -1,0 +1,90 @@
+ class EmployeeDetails
+{
+ 
+   //Creating properties of Employee class
+ 
+   int emp_id;
+ 
+   String emp_name, emp_address, emp_department, emp_email;
+ 
+   //Getter and setters for getting and setting properties
+ 
+   public int getEmp_id()
+   {
+ 
+      return emp_id;
+   }
+ 
+   public void setEmp_id(int emp_id)
+   {
+ 
+      this.emp_id = emp_id;
+   }
+ 
+   
+ 
+    public String getName()
+    {
+ 
+       return emp_name;
+ 
+    }
+ 
+    public void setName(String emp_name)
+    {
+ 
+       this.emp_name = emp_name;
+    }
+ 
+   public String getAddress()
+   {
+ 
+      return emp_address;
+ 
+   }
+ 
+  
+   public void setAddress(String emp_address)
+   {
+ 
+      this.emp_address = emp_address;
+ 
+   }
+ 
+    public String getDepartment()
+    {
+ 
+      return emp_department;
+ 
+    }
+ 
+    public void setDepartment(String emp_department)
+    {
+ 
+       this.emp_department = emp_department;
+    }
+ 
+    public String getEmail()
+    {
+ 
+       return emp_email;
+     }
+ 
+     public void setEmail(String emp_email)
+     {
+ 
+       this.emp_email = emp_email;
+ 
+     }
+ 
+   //Overriding toString() method
+ 
+   
+ 
+     public String toString()
+     {
+ 
+    	 return " Employee details{ Id = "+ emp_id + "\n Name = " + emp_name + "\n Address = " + emp_address + "\n Department = " + emp_department + "\n Email = " + emp_email + "}";
+     }
+ 
+}
